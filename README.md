@@ -1,4 +1,4 @@
-# Personal Dashboard
+# FocusBoard
 
 A responsive task and productivity tracking dashboard built with vanilla JavaScript, 
 HTML5, and CSS3.

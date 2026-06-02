@@ -3,7 +3,7 @@
 A responsive task and productivity tracking dashboard built with vanilla JavaScript, 
 HTML5, and CSS3.
 
-**Live Demo:** [https://Lastmile04.github.io/personal-dashboard](https://Lastmile04.github.io/personal-dashboard)
+**Live Demo:** [https://Lastmile04.github.io/personal-dashboard](https://Lastmile04.github.io/FocusBoard)
 
 ---
 
